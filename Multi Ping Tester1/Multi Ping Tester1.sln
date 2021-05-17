@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi Ping Tester1", "Multi Ping Tester1\Multi Ping Tester1.csproj", "{DADBDCC2-2867-4B68-A080-A6F60057E259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Release|Default.ActiveCfg = Release|Any CPU
+		{DADBDCC2-2867-4B68-A080-A6F60057E259}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282DB378-036B-4201-A8CD-5438A6C19715}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
